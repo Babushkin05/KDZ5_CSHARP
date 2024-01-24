@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "KDZBABUSHKIN5/1.0.0": {
+        "dependencies": {
+          "Recipes": "1.0.0"
+        },
+        "runtime": {
+          "KDZBABUSHKIN5.dll": {}
+        }
+      },
+      "Recipes/1.0.0": {
+        "runtime": {
+          "Recipes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KDZBABUSHKIN5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Recipes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
